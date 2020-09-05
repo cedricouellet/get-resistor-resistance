@@ -1,4 +1,4 @@
-# Description: A script that calculates the resistance of a 4-band resistor based on their colors
+# Description: A script that outputs the resistance of a 4-band resistor based on their colors
 # Author: cedricouellet
 # Date: 5 September 2020
 
